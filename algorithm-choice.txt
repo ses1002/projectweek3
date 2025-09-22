@@ -1,0 +1,3 @@
+I chose the Upper Confidence Bound algorithm.
+
+from the Bandit Algorithims file, I read that Upper Confidence Bound Algorithm says it behaves well when there are more than two arms. Based off our histogram diagrams, we can clearly see  that the reward distributions overlap and have high variance. UCB is good in this case because it tries all arms enough times and focuses more on the ones that look promising, without ignoring others too early

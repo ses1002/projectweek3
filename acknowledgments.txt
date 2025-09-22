@@ -1,0 +1,1 @@
+I used the Bandit Algorithms book pdf resource that was provided in Week 3 resources. I also used ChatGPT for assistance with understanding bandit algorithms and Python code examples.
